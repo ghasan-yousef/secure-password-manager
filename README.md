@@ -7,8 +7,8 @@ To do:
 
     agile:
         apply lean poppeindieck//// done via wiki https://github.com/ghasan-yousef/secure-password-manager/wiki/MVP-definition
-        apply scrum
-        apply kanban
-        apply cohn
+        use user stories//// done via issues https://github.com/ghasan-yousef/secure-password-manager/issues
+        use scrum
+        use kanban
 
 
